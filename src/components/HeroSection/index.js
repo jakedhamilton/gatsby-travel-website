@@ -1,5 +1,5 @@
 import React from 'react'
-import { HeroContainer, HeroBtns } from './HeroSection'
+import { HeroContainer, HeroBtns } from './HeroElements'
 import { Button } from '../ButtonElements'
 
 const HeroSection = () => {
