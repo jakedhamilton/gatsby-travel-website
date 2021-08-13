@@ -42,3 +42,4 @@ export const Images = styled(GatsbyImage)`
         grid-column-end: span 2;
     }
 `
+

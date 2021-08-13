@@ -3,6 +3,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import "../../src/components/layout.css"
 
+
 const Destinations = () => (
   <Layout>
     <Seo title="Destinations" />

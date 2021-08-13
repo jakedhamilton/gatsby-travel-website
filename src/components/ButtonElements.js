@@ -1,6 +1,7 @@
 import styled from "styled-components"
+import {motion} from 'framer-motion'
 
-export const Button = styled.button`
+export const Button = styled(motion.button)`
     border-radius: 4px;
     background: ${({ primary }) => (primary ? "#FF4040": "#0467FB")};
     white-space: nowrap;
